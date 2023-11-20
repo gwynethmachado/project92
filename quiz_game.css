@@ -1,0 +1,14 @@
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #761534;
+    padding: 10px;
+    float: none;
+    text-align:left;
+}
+
+#center
+{
+background-color: rgba(216, 133, 133, 0.21);
+}
